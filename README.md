@@ -9,4 +9,4 @@ Any advice or PR are welcome.
 
 - Class Diagram
 
-![Diagrama](diagram.jpeg)
+![Diagrama](classdiagram.jpeg)
